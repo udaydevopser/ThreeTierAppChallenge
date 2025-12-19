@@ -12,15 +12,14 @@ Architecture Flow:
 3.  Application Layer: The React frontend serves the UI, the Node.js backend handles business logic, and MongoDB manages data persistence—all running as containers within Kubernetes.
 4.  Observability: Prometheus collects metrics, and Grafana provides operational dashboards for real-time monitoring of the cluster and application health.
 
-## 🛠️ Technologies Used
-Category 	                        Tools 
-Cloud Provider	                  AWS 
-Infrastructure as Code	          Terraform 
-Container Orchestration	          Kubernetes (EKS), Helm
-CI/CD & GitOps	                  Jenkins, ArgoCD, SonarQube
-Containers	                      Docker 
-Monitoring & Observability	      Prometheus, Grafana
-Application Stack	                React.js, Node.js, MongoDB, Nginx
+## 🛠️ Technologies Used 
+Cloud Provider-AWS, 
+Infrastructure as Code-Terraform,
+Container Orchestration-Kubernetes (EKS), Helm,
+CI/CD & GitOps-Jenkins, ArgoCD, SonarQube,
+Containers-Docker,
+Monitoring & Observability-Prometheus, Grafana,
+Application Stack-React.js, Node.js, MongoDB, Nginx.
 
 ## 🚀 My Implementation & Role
 As the sole DevOps engineer for this project, I was responsible for the end-to-end design, implementation, and documentation. This involved:
